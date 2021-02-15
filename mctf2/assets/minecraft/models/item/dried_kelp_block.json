@@ -1,0 +1,32 @@
+{
+	"credit": "Asc4Yin",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "wall/temp",
+		"particle": "wall/temp"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [0, 0, 16],
+			"to": [32, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 24]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [-16, -16, 18],
+			"scale": [4, 4, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"children": [0]
+		}
+	]
+}

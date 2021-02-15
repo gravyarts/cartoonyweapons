@@ -1,0 +1,18 @@
+{
+	"credit": "Asc4Yin",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "wall/chainlink",
+		"bars": "wall/chainlink"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [8, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 8, 16], "texture": "#bars"},
+				"west": {"uv": [8, 0, 0, 16], "texture": "#bars"}
+			}
+		}
+	]
+}
