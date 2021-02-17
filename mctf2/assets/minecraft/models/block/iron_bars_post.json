@@ -2,6 +2,25 @@
 	"credit": "Asc4Yin",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "wall/chainlink"
-	}
+		"particle": "wall/metal_fence_side",
+		"bars": "wall/metal_fence_side"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 8],
+			"to": [8.5, 12, 8],
+			"faces": {
+				"north": {"uv": [0, 4, 1, 16], "texture": "#bars"},
+				"south": {"uv": [9, 0, 7, 16], "texture": "#bars"}
+			}
+		},
+		{
+			"from": [8, 0, 7.5],
+			"to": [8, 12, 8.5],
+			"faces": {
+				"east": {"uv": [9, 0, 7, 16], "texture": "#bars"},
+				"west": {"uv": [0, 4, 1, 16], "texture": "#bars"}
+			}
+		}
+	]
 }

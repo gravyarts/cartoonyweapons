@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "wall/cp_metal_strips_top"
+        "all": "wall/red_metal_stripes_lined"
     }
 }

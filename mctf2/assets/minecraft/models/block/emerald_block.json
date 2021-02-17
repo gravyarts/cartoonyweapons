@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/emerald_block",
-        "top": "block/emerald_block",
-        "side": "wall/cp_concrete_wall_no_metal"
-    }
-}
