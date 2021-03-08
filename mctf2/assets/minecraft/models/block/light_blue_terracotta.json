@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "wall/blue_metal_stripes"
-    }
-}

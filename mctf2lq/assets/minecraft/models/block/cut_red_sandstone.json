@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "generic/concrete_bricks_smooth_gray_bottom"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/white_terracotta",
-        "top": "block/white_terracotta",
-        "side": "wall/concrete_plain_blue_stripes"
-    }
-}

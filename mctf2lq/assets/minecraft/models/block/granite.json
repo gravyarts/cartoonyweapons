@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "generic/metal_diamond_plate_brown"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "roof/red_roof_plain",
-        "top": "roof/red_roof_plain",
-        "side": "roof/red_roof_side"
-    }
-}
