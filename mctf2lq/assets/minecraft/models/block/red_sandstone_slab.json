@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "generic/metal_roof_brown_vertical",
+        "top": "generic/metal_roof_brown_vertical",
+        "side": "generic/metal_roof_brown_vertical"
+    }
+}
