@@ -1,0 +1,12 @@
+# Made in Blockbench 3.8.2
+newmtl m_0
+map_Kd dispenser_base.png 
+newmtl m_1
+map_Kd dispenser_attachments.png 
+newmtl m_2
+map_Kd animated_screen.png 
+newmtl m_3
+map_Kd glow_dispenser_base.png 
+newmtl m_5
+map_Kd glow_screen.png 
+newmtl none

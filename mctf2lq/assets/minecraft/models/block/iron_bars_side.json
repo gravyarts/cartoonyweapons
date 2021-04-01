@@ -1,0 +1,19 @@
+{
+	"credit": "Asc4Yin",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "generic/chains",
+		"bars": "generic/chains"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [8, 0, 16, 16], "texture": "#bars"},
+				"west": {"uv": [16, 0, 8, 16], "texture": "#bars"}
+			}
+		}
+	]
+}
