@@ -3,5 +3,5 @@ however please don't resell the models or redistribute the models without consul
 
 however feel free to retexture or remodel the weapons and distribute them freely!
 
-contact:
-discord: 
+contact:aaron.#7344
+discord: https://discord.gg/njdf5B5hJs
