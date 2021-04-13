@@ -1,3 +1,0 @@
-rotation: 15
-depth: 5
-widening: 3

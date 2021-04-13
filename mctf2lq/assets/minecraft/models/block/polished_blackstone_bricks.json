@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "generic/metal_roof_gray_horizontal",
-        "side": "generic/metal_roof_gray_vertical"
-    }
-}
