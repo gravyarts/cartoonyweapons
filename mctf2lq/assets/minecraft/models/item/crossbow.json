@@ -34,8 +34,12 @@
 		{ "predicate": { "custom_model_data": 21000 }, "model": "teamfortress/stockweapons/shotgun" },
 		{ "predicate": { "custom_model_data": 22000 }, "model": "teamfortress/stockweapons/shovel" },
 		
+		{ "predicate": { "custom_model_data": 30000 }, "model": "teamfortress/stockweapons/flamethrower" },
+		{ "predicate": { "custom_model_data": 31000 }, "model": "teamfortress/stockweapons/fireaxe" },
+		
 		{ "predicate": { "custom_model_data": 40000 }, "model": "teamfortress/stockweapons/grenadelauncher" },
-		{ "predicate": { "custom_model_data": 41000 }, "model": "teamfortress/stockweapons/stickybomb" }
+		{ "predicate": { "custom_model_data": 41000 }, "model": "teamfortress/stockweapons/stickybomb" },
+		{ "predicate": { "custom_model_data": 42000 }, "model": "teamfortress/stockweapons/bottle" }
 		
 		
 		
