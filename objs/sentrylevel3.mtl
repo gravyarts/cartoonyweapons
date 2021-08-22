@@ -1,6 +1,0 @@
-# Made in Blockbench 3.8.2
-newmtl m_0
-map_Kd sentry_base.png 
-newmtl m_1
-map_Kd sentrygun_attachments.png 
-newmtl none
