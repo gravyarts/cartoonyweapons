@@ -1,5 +1,1 @@
-The entire premise of Cartoony Weapons is built upon one philosophy: "Work when I want to," as to not force creativity. That being said, Cartoony Weapons is designed to showcase my best work in a single large asset pack; that when compiled together, recreates the world of Team Fortress 2 in a low-poly cube-based reimagination.
-
-		All assets are free for public use, granted you link back to this github and credit accordingly.
-
-If you have any further questions, join my discord here: https://discord.gg/Vm6zrBhQnE
+		The assets included in Cartoony Weapons are free for non-commercial use.
