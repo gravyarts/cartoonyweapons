@@ -1,0 +1,1 @@
+outdated models and textures from previous CWeapon versions.
